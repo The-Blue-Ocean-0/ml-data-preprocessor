@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+data/merged_output.csv
+secrets/gdrive-sa.json
+.dvc/cache/
+.dvc/tmp/
