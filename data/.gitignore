@@ -1,2 +1,7 @@
 /merged_output.csv
 /balanced_random_40K_test3.csv
+/metadata_nona.csv
+/metadata_preprocessed.csv
+/url_metadata_cleaned.csv
+/url_metadata_cleaned_reduction.csv
+/final_reduction.csv
