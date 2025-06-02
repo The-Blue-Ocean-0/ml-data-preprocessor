@@ -1,0 +1,5 @@
+outs:
+- md5: 329aa647955ccf73308bf8717dfff2c1
+  size: 30710493
+  hash: md5
+  path: reduction_about_20k.csv
