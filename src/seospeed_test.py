@@ -1,6 +1,7 @@
 import requests
 import json
 
+
 # 設定項目
 API_KEY = "AIzaSyAt_3oICwf8exsn_on0UkegTKrIYWOXDqo"
 URL_TO_ANALYZE = "https://br-icloud.com.br"  # ← https:// を必ず入れる
